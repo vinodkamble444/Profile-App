@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_margin">8dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="heading_text_size">20sp</dimen>
+    <dimen name="body_text_size">15sp</dimen>
+    <dimen name="constraint_padding">16dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+</resources>
